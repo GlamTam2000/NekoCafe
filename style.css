@@ -1,0 +1,58 @@
+body {
+    background-color: rgba(115, 117, 114, 0.897);
+    background-image: url(images/catimages.jpeg);
+
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
+header {
+    background-color: rgb(215, 215, 235);
+    height: 118px;
+    width: 1024px;
+    text-align: centre;
+
+}
+nav{
+    background-color: rgba(8, 0, 0, 0.247);
+    height:40px ;
+    width: 1024px;
+    text-align: center;
+
+}
+main{
+    text-align: center;
+    height:400px ;
+    width: 1024px;
+    margin-top: 80px;
+  
+
+}
+footer{
+    background-color: rgb(16, 155, 197);
+    height:102px ;
+    width: 1024px;
+}
+     h1 {
+    font-size: 94px;
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif, Helvetica, sans-serif;
+}
+p{
+    font-size: 22px;
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(247, 244, 241);
+
+}
+a{
+    color: rgb(206, 206, 10);
+    font-family: fantasy;
+    font-size: 17px;
+
+}
